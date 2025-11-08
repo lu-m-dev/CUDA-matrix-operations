@@ -1,11 +1,9 @@
-Project 0 Getting Started
-====================
+# CUDA Matrix Operations
+Setup and check for CUDA, WebGL, WebGPU. Parallel matrix SAXPY, transpose, and multiplication in CUDA.
 
-**University of Pennsylvania, CIS 5650: GPU Programming and Architecture, Project 0**
-
-* Lu Men
-  * [LinkedIn](https://www.linkedin.com/in/lu-m-673425323/)
-* Tested on PC: Windows 11 Home, AMD Ryzen 7 5800HS @ 3.20GHz 16GB, NVIDIA GeForce RTX 3060 Laptop GPU 6GB (Compute Capability 8.6)
+**Author:** Lu M.
+- [LinkedIn](https://www.linkedin.com/in/lu-m-673425323/)
+- [Personal Site](https://lu-m-dev.github.io/)
 
 ### Part 2.1.2
 
@@ -30,3 +28,6 @@ Nsight Compute error encountered.
 ### Part 2.3
 
 <img src="./images/part-2-3.png" alt="Screenshot" style="width:65%; height:auto;">
+
+## Credit
+[University of Pennsylvania CIS 5650](https://github.com/CIS5650-Fall-2025/Project0-Getting-Started)
